@@ -1,3 +1,3 @@
 # DevOps-Learning
 
-This repository is meant for practising DevOps related tasks.
+This repository is meant for practicing DevOps related tasks.
